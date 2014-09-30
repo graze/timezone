@@ -1,5 +1,5 @@
 {
-    "name": "adlawson/timezone",
+    "name": "graze/timezone",
     "description": "UTC default timezone",
     "keywords": ["date", "datetime", "default", "time", "timezone", "utc"],
     "version": "1.0.0",
